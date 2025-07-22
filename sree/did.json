@@ -6,7 +6,7 @@
   "id": "did:web:sree96.github.io:did:sree",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhEFBPn8QobwojbCsZUW3DgV3r1A8rnotnmYZcEL3USiC",
+      "publicKeyMultibase": "zkhEFBPn8QobwojbCsZUW3DgV3r1A8rnotnmYZcEL3USiC",
       "controller": "did:web:sree96.github.io:did:sree",
       "id": "did:web:sree96.github.io:did:sree#key-0",
       "type": "Ed25519VerificationKey2020",
